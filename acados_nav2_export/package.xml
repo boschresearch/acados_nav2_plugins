@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>acados_nav2_export</name>
+  <version>0.0.1</version>
+  <description>Export tools for Acados-based Navigation2 plugins.</description>
+
+  <maintainer email="niels.vanduijkeren@de.bosch.com">Niels van Duijkeren</maintainer>
+
+  <license>Apache License 2.0</license>
+
+  <url type="repository">https://github.com/boschresearch/acados_nav2_plugins</url>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>acados</exec_depend>
+  
+  <test_depend>ament_cmake_pytest</test_depend>
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+
