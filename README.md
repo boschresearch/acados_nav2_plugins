@@ -8,6 +8,14 @@ A collection of acados-based plugins for [Navigation2](https://navigation.ros.or
 
 Technical information on the interfaces and use of these packages is given in the README.md files in the corresponding subfolders.
 
+## NOTICE
+
+This repository is currently (date of writing: July 11, 2023) still under construction. Primarily finishing preparations in dependency repositories:
+* [boschresearch/blasfeo-vendor](https://github.com/boschresearch/blasfeo-vendor)
+* [boschresearch/hpipm-vendor](https://github.com/boschresearch/hpipm-vendor)
+* [boschresearch/acados](https://github.com/boschresearch/acados)
+Please check back later this week for updates...
+
 
 ## Purpose of the project
 
