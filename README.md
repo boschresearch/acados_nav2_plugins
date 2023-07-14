@@ -16,6 +16,12 @@ This repository is currently (date of writing: July 11, 2023) still under constr
 * [boschresearch/acados](https://github.com/boschresearch/acados)
 Please check back later this week for updates...
 
+### Updates
+* 2023-07-14 Integration of nav2 plugin with reworked build pipelines for acados.
+* 2023-07-13 Acados packages for C and Python are built using colcon, tracking progress in this [pull request](https://github.com/boschresearch/acados).
+  * Ongoing: migrating CMake-based Python test execution management into Python package.
+* 2023-07-11 Implementation of vendor packages for [blasfeo](https://github.com/boschresearch/blasfeo-vendor) and [hpimp](https://github.com/boschresearch/hpipm-vendor) made available.
+
 
 ## Purpose of the project
 
